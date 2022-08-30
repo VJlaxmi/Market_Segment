@@ -16,3 +16,6 @@ In this dataset i've used five clustering algorithm to perform segmentation.Thes
 - [GaussianMixture Model based clustering](https://en.wikipedia.org/wiki/Mixture_model)
 ### Final Model  :
 We have created a Streamlit Application based on this clustering technique, where we are taking the customer details & identifying which cluster the custoemr belongs to.
+
+
+Source: Youtube video on market segementation end-end ML project.
